@@ -24,6 +24,10 @@ gcode:
     {action_call_remote_method("shutdown_machine")}"
 ```
 
+# Configure  Output Settings on Shelly:
+![image](https://github.com/user-attachments/assets/671ef0fc-777f-4038-bd12-3508478ad041)
+
+
 
 # Create a new script on Shelly: 
 
