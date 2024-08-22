@@ -137,14 +137,20 @@ Ensure that the Shelly device is set up and connected to the relay and button as
 Modify the following variables in the code to match your environment:
 
 inputId: ID of the connected button.
+
 switchId: ID of the relay to control.
+
 klipperUrl: URL of the command to be sent to Klipper.
 
-Upload the Script:
+
+
+# Upload the Script:
 
 Upload the script to your Shelly device via the web interface or the Shelly app.
 
-Test the Script:
+
+
+# Test the Script:
 
 Verify the functionality by pressing the button and ensuring that the relay and Klipper command operate as expected.
 
